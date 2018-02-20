@@ -1,6 +1,6 @@
 # gBay shopping cart
 
-actually it is copy of xxx. I just added some texts and socks ;)
+actually it is copy of reactjs-shopping-cart. I just added some texts and socks ;)
 
 demo [click here](http://kenanbek.github.io/gbay-mobile-web/)
 
